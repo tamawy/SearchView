@@ -19,7 +19,6 @@
         <attr name="search_navigation_icon" format="integer" />
         <attr name="search_icon_color" format="color" />
         <attr name="search_background_color" format="color" />
-        <attr name="search_text_1" format="string" />
         <attr name="search_text_color" format="color" />
         <attr name="search_text_highlight_color" format="color" />
         <attr name="search_text_size" format="dimension" />
